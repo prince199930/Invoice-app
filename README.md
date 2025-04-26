@@ -12,7 +12,6 @@ A Simplify your invoicing, Create, manage, and send invoices with ease. Stay on 
 - 📄 **PDF viewer** for invoice or document previews
 - 👁️ **View saved data** with interactive UI
 - 🧩 **Component-based architecture** for scalable development
-- ⚡️ **Optimized performance** with retry logic on failed requests
 
 ---
 
