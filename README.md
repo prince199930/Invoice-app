@@ -1,4 +1,4 @@
-# 💱 Currency Converter
+# 💱 Invoice APP
 
 A Simplify your invoicing, Create, manage, and send invoices with ease. Stay on top of your business finances in just a few clicks..
 
